@@ -1,0 +1,1 @@
+This is js script to get private pem file Recovering an Account with a Base64 Secret Key.
